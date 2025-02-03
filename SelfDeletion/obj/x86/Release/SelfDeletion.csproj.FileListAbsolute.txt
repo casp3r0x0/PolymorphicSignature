@@ -1,0 +1,8 @@
+C:\Users\MALDEV01\Desktop\Dev\C#\SelfDeletion\SelfDeletion\bin\x86\Release\SelfDeletion.exe.config
+C:\Users\MALDEV01\Desktop\Dev\C#\SelfDeletion\SelfDeletion\bin\x86\Release\SelfDeletion.exe
+C:\Users\MALDEV01\Desktop\Dev\C#\SelfDeletion\SelfDeletion\bin\x86\Release\SelfDeletion.pdb
+C:\Users\MALDEV01\Desktop\Dev\C#\SelfDeletion\SelfDeletion\obj\x86\Release\SelfDeletion.csproj.AssemblyReference.cache
+C:\Users\MALDEV01\Desktop\Dev\C#\SelfDeletion\SelfDeletion\obj\x86\Release\SelfDeletion.csproj.SuggestedBindingRedirects.cache
+C:\Users\MALDEV01\Desktop\Dev\C#\SelfDeletion\SelfDeletion\obj\x86\Release\SelfDeletion.csproj.CoreCompileInputs.cache
+C:\Users\MALDEV01\Desktop\Dev\C#\SelfDeletion\SelfDeletion\obj\x86\Release\SelfDeletion.exe
+C:\Users\MALDEV01\Desktop\Dev\C#\SelfDeletion\SelfDeletion\obj\x86\Release\SelfDeletion.pdb
